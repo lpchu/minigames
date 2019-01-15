@@ -1,4 +1,4 @@
-""" STOPWATCH mini game 
+""" STOPWATCH minigame 
 Week 3 assignment of 'An introduction to interactive programming in Python' by Rice University (Coursera)
 
 Script can be run online @ http://www.codeskulptor.org/ 
