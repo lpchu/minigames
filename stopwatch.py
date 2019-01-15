@@ -1,10 +1,6 @@
-""" STOPWATCH minigame 
-Week 3 assignment of 'An introduction to interactive programming in Python' by Rice University (Coursera)
-
-Script can be run online @ http://www.codeskulptor.org/ 
-using built-in simplegui module or offline using an equivalent SimpleGUICS2Pygame module
-
-The timer in offline mode could be slightly problematic (not sure why)
+# Implementation of a simple stopwatch minigame
+"""
+The aim of the game is to stop the clock at exactly 0 tenth of second
 """
 
 try:
@@ -107,5 +103,3 @@ frame.add_button('Reset', reset, 50)
 
 # start frame
 frame.start()
-
-# Please remember to review the grading rubric
