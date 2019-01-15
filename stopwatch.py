@@ -3,6 +3,8 @@ Week 3 assignment of 'An introduction to interactive programming in Python' by R
 
 Script can be run online @ http://www.codeskulptor.org/ using built-in simplegui module
 or offline using an equivalent SimpleGUICS2Pygame module (developed by Olivier Pirson)
+
+The timer in offline mode could be slightly problematic (not sure why)
 """
 
 try:
