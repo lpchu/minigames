@@ -1,8 +1,8 @@
 """ STOPWATCH mini game 
 Week 3 assignment of 'An introduction to interactive programming in Python' by Rice University (Coursera)
 
-Script can be run online @ http://www.codeskulptor.org/ using built-in simplegui module
-or offline using an equivalent SimpleGUICS2Pygame module (developed by Olivier Pirson)
+Script can be run online @ http://www.codeskulptor.org/ 
+using built-in simplegui module or offline using an equivalent SimpleGUICS2Pygame module
 
 The timer in offline mode could be slightly problematic (not sure why)
 """
