@@ -7,7 +7,7 @@ Minigames built in *Python2* for assignments of the "An Introduction to Interact
 3. Memory
 4. Blackjack
 5. Spaceship 
-6. RiceRocks
+6. RiceRocks / Asteroids
 
 Initially designed (and HIGHLY HIGHLY recommended) to run on web-browsers (preferably Chrome) @ http://www.codeskulptor.org/
 
